@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Local storage & outputs
+storage/raw/
+storage/processed/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+config.json
